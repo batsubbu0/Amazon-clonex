@@ -1,0 +1,93 @@
+.var{
+    width: 750px;
+    height: 1760px;
+    color:black;
+    background-color:#faecbc;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.034);    
+    padding: 10px;   
+    margin: auto;    
+    font-size: 16px;   
+    font-weight: bold;
+}
+.aar{
+
+    background-repeat: no-repeat;
+    width: 700px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gt{
+
+color: rgb(0, 15, 15);
+}
+.foot-panel2 {
+    color: rgb(85, 5, 5);
+    height: 250PX;
+    display: flex;
+    justify-content: space-evenly;
+}
+.bnf{
+    background-color: white;
+    color: black;
+    height: 1200px;
+}
+.pannel {
+    margin-left: auto;
+    margin-right:auto ;
+    width: 770px;
+    height: 60px;
+    background-color:#dbba4b;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+   
+   }
+   .pannel-ops p {
+   display: inline;
+   margin-left: 15px;
+   
+   }
+   .pannel-ops {
+   
+        width: 70%;
+        font-size: 0.9rem;
+       
+   }
+   .pannel-deals {
+   
+       font-size: 0.9rem;
+       font-weight: 700;
+   }
+   .search-input {
+
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+.awe{
+    color: brown;
+}
+.pj{
+    font-weight: 100;
+    justify-content: space-evenly;
+    font-size:20px;
+}
+.mo{
+    font-weight:1000;
+}
+.btn{
+    width: 20%;    
+     background-color: green;    
+     color: white;    border: none;    
+     padding: 10px;    
+     margin: 10px;    
+     border-radius: 4px;
+}
+.btn:hover{   
+    background-color: orangered;
+    color: black;
+}
